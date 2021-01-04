@@ -41,11 +41,9 @@ Unit Testing
 
 ## Usage
 
-
 ```bash
-SSH or Dowload ZIP``
-
-
+SSH or Dowload ZIP
+```
 
 ## Contributing
 It's all personal to Holberton School
